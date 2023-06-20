@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "1f396751496a7f9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c99c3445cc634eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f68df74f356ff0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cryptography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "289e21fd76b8f30b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5e2884e06dbe336",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df6ee78bc3d25fdb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5307de98a4f255d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3288de82fa65e473",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8e259fb757571869",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a053d689b3d0114",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83c8b4fa39b4cfdc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cryptography.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4671c4e2e1cab319",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cryptography.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "35fb82852abdf5b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c8c20554d83b570c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cryptography.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6f68df74f356ff0c",
+  "lastOpenFiles": [
+    "Cryptography.md",
+    "Vendor Specific Information.md",
+    "Key Exchange Mechanisms.md",
+    "Authentication Protocols.md",
+    "TCP and UDP Connections.md",
+    "img/ips.png",
+    "img/ipRecordroute.png",
+    "img/netSniff.png",
+    "img/STP.png",
+    "img/cdp.png",
+    "img/cisco.png",
+    "Wireless Networks.md",
+    "Virtual Private Networks.md",
+    "img/wifi.png",
+    "Common Protocolos.md",
+    "Networking Key Terminology.md",
+    "Network Types.md",
+    "IPv6 Addresses.md",
+    "img/ipv6_1.png",
+    "img/ipv6.png",
+    "MAC addresses.md",
+    "img/tshark2.png",
+    "Subnetting.md",
+    "IP addresses.md",
+    "Network Layer.md",
+    "The TCP IP Model.md",
+    "The OSI Model.md",
+    "Networking Models.md",
+    "Proxies.md",
+    "Networking Topologies.md",
+    "Networking Overview.md",
+    "img"
+  ]
+}

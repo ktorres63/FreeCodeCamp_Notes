@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "11639ba5a11639e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd8cf671615706f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fa60662ea16504d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Filter Contents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d49437c35365cb09",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "644b1251c5b46046",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaa3fad9deadb3e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a1e37d4caecc09a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fdb5e6355aff0071",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73630069f77c808d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "294d7e20f9d9d819",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "751735e9f088ce64",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f6b0c5373f1a55a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57290cb766fb7215",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Filter Contents.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2938d709cf3dc4ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Filter Contents.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1321e3e40c701051",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff0b2fab20687aaa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Filter Contents.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "7a1e37d4caecc09a",
+  "lastOpenFiles": [
+    "imgs/wc.png",
+    "imgs/sed.png",
+    "imgs/awk.png",
+    "Filter Contents.md",
+    "imgs/column2.png",
+    "imgs/column1.png",
+    "imgs/tr.png",
+    "imgs/cut.png",
+    "imgs/grep2.png",
+    "imgs/grep.png",
+    "imgs/sort2.png",
+    "imgs/sort.png",
+    "Prompt description.md",
+    "Linux Structure.md",
+    "imgs"
+  ]
+}
